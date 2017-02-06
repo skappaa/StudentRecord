@@ -1,0 +1,93 @@
+<html>
+<head> 
+<head> 
+    <title>Student Record </title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+<body>
+    <h1> Student Record System </h1>
+		   <input type="button" class="entry" value="New Student Entry" name="newentry"/>
+        <div id="newentry">
+            <form>
+            <fieldset>
+                  <legend align="center">New Student Entry</legend>
+                  First Name: <input type="text" id="firstname" class="forminputbox"><br>
+                  Last Name: <input type="text" id="lastname" class="forminputbox"><br>
+                  Email: <input type="email" id="email" class="forminputbox"><br>
+                  Phone No: <input type="number" id="phone"class="forminputbox"><br>
+                  Current Class: <input type="number" id="currentclass" class="forminputbox"><br>
+                  Location: <input type="text" id="location" class="forminputbox"><br>
+                  Communication Address: <input type="text" id="commAddress" class="forminputbox"><br>
+                  Permanant Address: <input type="text" id="permAddress" class="forminputbox"><br>
+                  English Marks: <input type="text" id="engMarks" class="forminputbox"><br>
+                  Science Marks: <input type="text" id="scMarks"class="forminputbox"><br>
+                  Computer Marks: <input type="text" id="compMarks"class="forminputbox"><br>
+                  Hardware Marks: <input type="text" id="hwMarks" class="forminputbox"><br>
+                  <button type="submit" name="addentry" value="addentry" class="formbuttons" id="addentry"> Add New Entry</button>
+                  <button type="button" name="cancel" value="cancel" class="formbuttons" id="cancelbutton"> Cancel</button>
+                 </fieldset>
+            </form>
+        </div> 
+        
+    <div id="updateEntry">
+            <form>
+            <fieldset>
+                  <legend align="center">Update Existing Student Entry</legend>
+                  First Name: <input type="text" id="fname" class="forminputbox"><br>
+                  Last Name: <input type="text" id="lname" class="forminputbox"><br>
+                  Email: <input type="email" id="emailid" class="forminputbox"><br>
+                  Phone No: <input type="number" id="ph"class="forminputbox"><br>
+                  Current Class: <input type="number" id="cls" class="forminputbox"><br>
+                  Location: <input type="text" id="loc" class="forminputbox"><br>
+                  Communication Address: <input type="text" id="commAdd" class="forminputbox"><br>
+                  Permanant Address: <input type="text" id="permAdd" class="forminputbox"><br>
+                  English Marks: <input type="text" id="eMarks" class="forminputbox"><br>
+                  Science Marks: <input type="text" id="sMarks"class="forminputbox"><br>
+                  Computer Marks: <input type="text" id="cMarks"class="forminputbox"><br>
+                  Hardware Marks: <input type="text" id="hMarks" class="forminputbox"><br>
+                  <button type="submit" name="modify" value="modify" class="formbuttons" id="modify"> Update Entry </button>
+                  <button type="button" name="cancel" value="cancel" class="formbuttons" id="cancel"> Cancel</button>
+                 </fieldset>
+            </form>
+        </div> 
+
+       <input type="text" id="search" class="searchbox" placeholder="search">  
+            
+            <select name="ViewOption" class="selectDisplay">
+              <option value="10">View 10 Records </option>
+              <option value="20">View 20 Records</option>
+              <option value="50">View 50 Records</option>
+              <option value="80">View 80 Records</option>    
+              <option value="100">View 100 Records</option>
+              <option value="150">View All Records</option>    
+            </select>
+        <center>
+            <div class="pagenos"> 
+                <button type="button" class="page" id="previouspage"> << </button>
+                <button type="button" class="page" id="nextpage"> >> </button>
+            </div>
+            
+            <table class="myTable">
+              <tr class="tablerow">
+               <th>ID</th>
+               <th>First Name</th>
+               <th>Last Name</th>
+               <th>Email ID</th>
+               <th>Phone</th> 
+               <th>location</th>         
+               <th>CurrentClass</th>                  
+                </tr>
+            </table>
+            
+            <div id="error">
+            
+            </div>   
+        </center>
+   
+    <script src="script.js"></script>
+   <!--  <script src="generateData.js"></script>  -->
+	
+</body>
+</html>

@@ -1,0 +1,2306 @@
+[
+  {
+    "firstname": "Sharpe",
+    "lastname": "Mathews",
+    "email": "sharpemathews@nurplex.com",
+    "location": "Clara, American Samoa, 393",
+    "phone": "+1 (848) 486-3314",
+    "current_class": "10th",
+    "address": {
+      "communication": "474 Blake Avenue, Englevale, Pennsylvania, 5854",
+      "permanent": "946 Johnson Street, Lloyd, Arkansas, 7259"
+    },
+    "marks": {
+      "english": 71,
+      "science": 96,
+      "computers": 26,
+      "hardware": 34
+    }
+  },
+  {
+    "firstname": "Nunez",
+    "lastname": "Yang",
+    "email": "nunezyang@nurplex.com",
+    "location": "Efland, Nebraska, 8048",
+    "phone": "+1 (898) 424-3553",
+    "current_class": "7th",
+    "address": {
+      "communication": "499 Independence Avenue, Brooktrails, Michigan, 2506",
+      "permanent": "747 Whitty Lane, Sugartown, Utah, 5595"
+    },
+    "marks": {
+      "english": 75,
+      "science": 19,
+      "computers": 50,
+      "hardware": 17
+    }
+  },
+  {
+    "firstname": "Lynn",
+    "lastname": "Huber",
+    "email": "lynnhuber@nurplex.com",
+    "location": "Tonopah, Virgin Islands, 4721",
+    "phone": "+1 (821) 573-3749",
+    "current_class": "6th",
+    "address": {
+      "communication": "750 Linden Street, Trail, Federated States Of Micronesia, 9153",
+      "permanent": "758 Voorhies Avenue, Allendale, Nevada, 3170"
+    },
+    "marks": {
+      "english": 100,
+      "science": 83,
+      "computers": 46,
+      "hardware": 49
+    }
+  },
+  {
+    "firstname": "Walter",
+    "lastname": "Ashley",
+    "email": "walterashley@nurplex.com",
+    "location": "Grazierville, Texas, 2661",
+    "phone": "+1 (968) 516-3851",
+    "current_class": "9th",
+    "address": {
+      "communication": "657 Garland Court, Libertytown, New York, 3374",
+      "permanent": "212 Ralph Avenue, Movico, New Mexico, 2281"
+    },
+    "marks": {
+      "english": 73,
+      "science": 74,
+      "computers": 30,
+      "hardware": 30
+    }
+  },
+  {
+    "firstname": "Claudette",
+    "lastname": "Rivera",
+    "email": "claudetterivera@nurplex.com",
+    "location": "Saticoy, South Carolina, 1548",
+    "phone": "+1 (964) 469-2196",
+    "current_class": "6th",
+    "address": {
+      "communication": "332 Tudor Terrace, Grandview, Marshall Islands, 1291",
+      "permanent": "594 Langham Street, Springhill, Oregon, 8938"
+    },
+    "marks": {
+      "english": 69,
+      "science": 59,
+      "computers": 59,
+      "hardware": 84
+    }
+  },
+  {
+    "firstname": "Alvarado",
+    "lastname": "Waters",
+    "email": "alvaradowaters@nurplex.com",
+    "location": "Saranap, Georgia, 4182",
+    "phone": "+1 (968) 404-3156",
+    "current_class": "9th",
+    "address": {
+      "communication": "338 Love Lane, Greenbush, Oklahoma, 2810",
+      "permanent": "911 Harbor Lane, Cavalero, West Virginia, 4335"
+    },
+    "marks": {
+      "english": 57,
+      "science": 16,
+      "computers": 38,
+      "hardware": 67
+    }
+  },
+  {
+    "firstname": "Fay",
+    "lastname": "Rogers",
+    "email": "fayrogers@nurplex.com",
+    "location": "Sehili, South Dakota, 4092",
+    "phone": "+1 (911) 436-3146",
+    "current_class": "9th",
+    "address": {
+      "communication": "808 Eaton Court, Dragoon, North Dakota, 4826",
+      "permanent": "492 Martense Street, Williamson, Wisconsin, 1952"
+    },
+    "marks": {
+      "english": 15,
+      "science": 20,
+      "computers": 17,
+      "hardware": 44
+    }
+  },
+  {
+    "firstname": "Valerie",
+    "lastname": "Curtis",
+    "email": "valeriecurtis@nurplex.com",
+    "location": "Chestnut, Northern Mariana Islands, 9333",
+    "phone": "+1 (877) 581-2036",
+    "current_class": "6th",
+    "address": {
+      "communication": "298 Monroe Place, Woodlands, Arizona, 3269",
+      "permanent": "381 Seeley Street, Brandermill, Iowa, 1793"
+    },
+    "marks": {
+      "english": 62,
+      "science": 52,
+      "computers": 98,
+      "hardware": 95
+    }
+  },
+  {
+    "firstname": "Rivera",
+    "lastname": "Moody",
+    "email": "riveramoody@nurplex.com",
+    "location": "Vandiver, Rhode Island, 5570",
+    "phone": "+1 (973) 414-2173",
+    "current_class": "6th",
+    "address": {
+      "communication": "997 Flatbush Avenue, Bordelonville, Connecticut, 3701",
+      "permanent": "337 Poplar Avenue, Abiquiu, Missouri, 6434"
+    },
+    "marks": {
+      "english": 48,
+      "science": 38,
+      "computers": 59,
+      "hardware": 80
+    }
+  },
+  {
+    "firstname": "Hooper",
+    "lastname": "Collier",
+    "email": "hoopercollier@nurplex.com",
+    "location": "Kilbourne, Palau, 2964",
+    "phone": "+1 (836) 439-2121",
+    "current_class": "9th",
+    "address": {
+      "communication": "288 Whitney Avenue, Nord, Virginia, 9167",
+      "permanent": "317 Campus Road, Matthews, California, 9861"
+    },
+    "marks": {
+      "english": 91,
+      "science": 28,
+      "computers": 27,
+      "hardware": 35
+    }
+  },
+  {
+    "firstname": "Hall",
+    "lastname": "Marks",
+    "email": "hallmarks@nurplex.com",
+    "location": "Greenwich, New Hampshire, 9119",
+    "phone": "+1 (864) 540-3546",
+    "current_class": "9th",
+    "address": {
+      "communication": "111 Desmond Court, Sperryville, North Carolina, 1673",
+      "permanent": "758 Kathleen Court, Linganore, Colorado, 5454"
+    },
+    "marks": {
+      "english": 58,
+      "science": 89,
+      "computers": 97,
+      "hardware": 10
+    }
+  },
+  {
+    "firstname": "Juanita",
+    "lastname": "Whitaker",
+    "email": "juanitawhitaker@nurplex.com",
+    "location": "Elliott, Louisiana, 3091",
+    "phone": "+1 (805) 557-3430",
+    "current_class": "8th",
+    "address": {
+      "communication": "995 Tennis Court, Ripley, District Of Columbia, 8838",
+      "permanent": "473 Rewe Street, Tedrow, Washington, 8603"
+    },
+    "marks": {
+      "english": 23,
+      "science": 41,
+      "computers": 74,
+      "hardware": 25
+    }
+  },
+  {
+    "firstname": "Delaney",
+    "lastname": "Farmer",
+    "email": "delaneyfarmer@nurplex.com",
+    "location": "Ballico, Massachusetts, 8115",
+    "phone": "+1 (960) 434-2546",
+    "current_class": "9th",
+    "address": {
+      "communication": "227 Middagh Street, Ellerslie, Ohio, 8701",
+      "permanent": "757 Dekoven Court, Tooleville, Kentucky, 836"
+    },
+    "marks": {
+      "english": 19,
+      "science": 75,
+      "computers": 28,
+      "hardware": 57
+    }
+  },
+  {
+    "firstname": "Fernandez",
+    "lastname": "Rodriguez",
+    "email": "fernandezrodriguez@nurplex.com",
+    "location": "Sparkill, Minnesota, 4668",
+    "phone": "+1 (992) 572-2363",
+    "current_class": "10th",
+    "address": {
+      "communication": "922 Bayview Avenue, Ilchester, Delaware, 1551",
+      "permanent": "559 Waldorf Court, Delwood, Puerto Rico, 7503"
+    },
+    "marks": {
+      "english": 59,
+      "science": 63,
+      "computers": 41,
+      "hardware": 80
+    }
+  },
+  {
+    "firstname": "Marilyn",
+    "lastname": "Waller",
+    "email": "marilynwaller@nurplex.com",
+    "location": "Bison, Vermont, 3503",
+    "phone": "+1 (893) 436-2141",
+    "current_class": "6th",
+    "address": {
+      "communication": "641 Kings Place, Avoca, Montana, 4784",
+      "permanent": "267 Beadel Street, Bayview, Idaho, 7772"
+    },
+    "marks": {
+      "english": 14,
+      "science": 53,
+      "computers": 15,
+      "hardware": 98
+    }
+  },
+  {
+    "firstname": "Solis",
+    "lastname": "Rivas",
+    "email": "solisrivas@nurplex.com",
+    "location": "Nanafalia, Tennessee, 3276",
+    "phone": "+1 (902) 553-3730",
+    "current_class": "9th",
+    "address": {
+      "communication": "850 Hawthorne Street, Roosevelt, Maryland, 8699",
+      "permanent": "348 Pierrepont Street, Winfred, Illinois, 1239"
+    },
+    "marks": {
+      "english": 18,
+      "science": 72,
+      "computers": 84,
+      "hardware": 92
+    }
+  },
+  {
+    "firstname": "Kenya",
+    "lastname": "Preston",
+    "email": "kenyapreston@nurplex.com",
+    "location": "Comptche, Mississippi, 3843",
+    "phone": "+1 (816) 450-2838",
+    "current_class": "10th",
+    "address": {
+      "communication": "265 Columbus Place, Darrtown, Alabama, 8277",
+      "permanent": "347 Wilson Street, Freeburn, Alaska, 7648"
+    },
+    "marks": {
+      "english": 77,
+      "science": 77,
+      "computers": 33,
+      "hardware": 98
+    }
+  },
+  {
+    "firstname": "Daisy",
+    "lastname": "Nelson",
+    "email": "daisynelson@nurplex.com",
+    "location": "Hendersonville, Indiana, 4769",
+    "phone": "+1 (977) 488-2181",
+    "current_class": "6th",
+    "address": {
+      "communication": "135 Scott Avenue, Hinsdale, New Jersey, 3083",
+      "permanent": "517 Lloyd Court, Escondida, Kansas, 6480"
+    },
+    "marks": {
+      "english": 96,
+      "science": 35,
+      "computers": 80,
+      "hardware": 57
+    }
+  },
+  {
+    "firstname": "Hollie",
+    "lastname": "Juarez",
+    "email": "holliejuarez@nurplex.com",
+    "location": "Springdale, Wyoming, 5346",
+    "phone": "+1 (813) 547-2501",
+    "current_class": "6th",
+    "address": {
+      "communication": "667 Crooke Avenue, Woodruff, Hawaii, 3025",
+      "permanent": "332 Summit Street, Dunbar, Florida, 471"
+    },
+    "marks": {
+      "english": 26,
+      "science": 70,
+      "computers": 43,
+      "hardware": 74
+    }
+  },
+  {
+    "firstname": "Nichols",
+    "lastname": "Case",
+    "email": "nicholscase@nurplex.com",
+    "location": "Ezel, Maine, 8502",
+    "phone": "+1 (979) 427-2752",
+    "current_class": "7th",
+    "address": {
+      "communication": "972 Bergen Avenue, Calvary, American Samoa, 6000",
+      "permanent": "542 Moore Street, Baden, Pennsylvania, 8722"
+    },
+    "marks": {
+      "english": 85,
+      "science": 99,
+      "computers": 71,
+      "hardware": 40
+    }
+  },
+  {
+    "firstname": "Elsa",
+    "lastname": "Burton",
+    "email": "elsaburton@nurplex.com",
+    "location": "Eggertsville, Arkansas, 5111",
+    "phone": "+1 (946) 524-3817",
+    "current_class": "6th",
+    "address": {
+      "communication": "606 Kay Court, Umapine, Nebraska, 2133",
+      "permanent": "777 Dahlgreen Place, Loveland, Michigan, 2024"
+    },
+    "marks": {
+      "english": 97,
+      "science": 99,
+      "computers": 62,
+      "hardware": 66
+    }
+  },
+  {
+    "firstname": "Black",
+    "lastname": "Miranda",
+    "email": "blackmiranda@nurplex.com",
+    "location": "Yardville, Utah, 9182",
+    "phone": "+1 (932) 552-2559",
+    "current_class": "9th",
+    "address": {
+      "communication": "374 Bancroft Place, Winchester, Virgin Islands, 2567",
+      "permanent": "521 Moffat Street, Whitewater, Federated States Of Micronesia, 5413"
+    },
+    "marks": {
+      "english": 66,
+      "science": 22,
+      "computers": 98,
+      "hardware": 13
+    }
+  },
+  {
+    "firstname": "Rivers",
+    "lastname": "Bentley",
+    "email": "riversbentley@nurplex.com",
+    "location": "Goochland, Nevada, 2035",
+    "phone": "+1 (927) 459-2575",
+    "current_class": "6th",
+    "address": {
+      "communication": "509 Losee Terrace, Leyner, Texas, 5348",
+      "permanent": "630 Durland Place, Lund, New York, 6567"
+    },
+    "marks": {
+      "english": 23,
+      "science": 22,
+      "computers": 19,
+      "hardware": 42
+    }
+  },
+  {
+    "firstname": "Megan",
+    "lastname": "Cruz",
+    "email": "megancruz@nurplex.com",
+    "location": "Oretta, New Mexico, 4913",
+    "phone": "+1 (898) 515-2216",
+    "current_class": "7th",
+    "address": {
+      "communication": "370 Middleton Street, Frank, South Carolina, 9852",
+      "permanent": "757 Rochester Avenue, Norfolk, Marshall Islands, 3832"
+    },
+    "marks": {
+      "english": 75,
+      "science": 46,
+      "computers": 62,
+      "hardware": 80
+    }
+  },
+  {
+    "firstname": "Abbott",
+    "lastname": "Stanley",
+    "email": "abbottstanley@nurplex.com",
+    "location": "Valle, Oregon, 7336",
+    "phone": "+1 (963) 448-2839",
+    "current_class": "6th",
+    "address": {
+      "communication": "616 Meserole Avenue, Byrnedale, Georgia, 1412",
+      "permanent": "723 Newel Street, Woodburn, Oklahoma, 7560"
+    },
+    "marks": {
+      "english": 71,
+      "science": 55,
+      "computers": 81,
+      "hardware": 20
+    }
+  },
+  {
+    "firstname": "Bright",
+    "lastname": "Ballard",
+    "email": "brightballard@nurplex.com",
+    "location": "Campo, West Virginia, 7720",
+    "phone": "+1 (834) 450-2105",
+    "current_class": "8th",
+    "address": {
+      "communication": "610 Williams Place, Tolu, South Dakota, 6080",
+      "permanent": "912 Lewis Place, Hayes, North Dakota, 6186"
+    },
+    "marks": {
+      "english": 99,
+      "science": 100,
+      "computers": 39,
+      "hardware": 21
+    }
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Washington",
+    "email": "michaelwashington@nurplex.com",
+    "location": "Bawcomville, Wisconsin, 9133",
+    "phone": "+1 (951) 443-3855",
+    "current_class": "10th",
+    "address": {
+      "communication": "837 Furman Avenue, Yogaville, Northern Mariana Islands, 7967",
+      "permanent": "288 Coleridge Street, Interlochen, Arizona, 3615"
+    },
+    "marks": {
+      "english": 32,
+      "science": 27,
+      "computers": 66,
+      "hardware": 47
+    }
+  },
+  {
+    "firstname": "Betty",
+    "lastname": "Ortega",
+    "email": "bettyortega@nurplex.com",
+    "location": "Kenwood, Iowa, 4147",
+    "phone": "+1 (900) 544-3667",
+    "current_class": "6th",
+    "address": {
+      "communication": "923 Riverdale Avenue, Remington, Rhode Island, 434",
+      "permanent": "532 Loring Avenue, Camas, Connecticut, 6315"
+    },
+    "marks": {
+      "english": 55,
+      "science": 36,
+      "computers": 78,
+      "hardware": 19
+    }
+  },
+  {
+    "firstname": "Liza",
+    "lastname": "Huff",
+    "email": "lizahuff@nurplex.com",
+    "location": "Fairmount, Missouri, 1273",
+    "phone": "+1 (974) 549-3791",
+    "current_class": "8th",
+    "address": {
+      "communication": "592 Batchelder Street, Gordon, Palau, 7150",
+      "permanent": "959 Amersfort Place, Cawood, Virginia, 2730"
+    },
+    "marks": {
+      "english": 45,
+      "science": 15,
+      "computers": 39,
+      "hardware": 79
+    }
+  },
+  {
+    "firstname": "Haynes",
+    "lastname": "Simon",
+    "email": "haynessimon@nurplex.com",
+    "location": "Waterview, California, 4045",
+    "phone": "+1 (821) 573-3197",
+    "current_class": "7th",
+    "address": {
+      "communication": "461 Norman Avenue, Munjor, New Hampshire, 9717",
+      "permanent": "274 Allen Avenue, Wyoming, North Carolina, 5494"
+    },
+    "marks": {
+      "english": 15,
+      "science": 10,
+      "computers": 72,
+      "hardware": 59
+    }
+  },
+  {
+    "firstname": "Hancock",
+    "lastname": "Compton",
+    "email": "hancockcompton@nurplex.com",
+    "location": "Caroline, Colorado, 4799",
+    "phone": "+1 (843) 498-2115",
+    "current_class": "7th",
+    "address": {
+      "communication": "559 Aster Court, Rushford, Louisiana, 2864",
+      "permanent": "968 Baughman Place, Boyd, District Of Columbia, 1318"
+    },
+    "marks": {
+      "english": 36,
+      "science": 18,
+      "computers": 93,
+      "hardware": 43
+    }
+  },
+  {
+    "firstname": "Juarez",
+    "lastname": "Parrish",
+    "email": "juarezparrish@nurplex.com",
+    "location": "Madaket, Washington, 7306",
+    "phone": "+1 (977) 457-3192",
+    "current_class": "8th",
+    "address": {
+      "communication": "259 Bridgewater Street, Juarez, Massachusetts, 5876",
+      "permanent": "371 Logan Street, Hall, Ohio, 9646"
+    },
+    "marks": {
+      "english": 12,
+      "science": 67,
+      "computers": 87,
+      "hardware": 78
+    }
+  },
+  {
+    "firstname": "Joni",
+    "lastname": "Hewitt",
+    "email": "jonihewitt@nurplex.com",
+    "location": "Lacomb, Kentucky, 2051",
+    "phone": "+1 (908) 564-2823",
+    "current_class": "6th",
+    "address": {
+      "communication": "110 Metropolitan Avenue, Davenport, Minnesota, 3298",
+      "permanent": "748 Montgomery Place, Dowling, Delaware, 3976"
+    },
+    "marks": {
+      "english": 19,
+      "science": 55,
+      "computers": 99,
+      "hardware": 97
+    }
+  },
+  {
+    "firstname": "Gillespie",
+    "lastname": "Hughes",
+    "email": "gillespiehughes@nurplex.com",
+    "location": "Kiskimere, Puerto Rico, 2913",
+    "phone": "+1 (958) 556-2136",
+    "current_class": "10th",
+    "address": {
+      "communication": "860 Bush Street, Fairfield, Vermont, 1240",
+      "permanent": "426 Heyward Street, Cuylerville, Montana, 4806"
+    },
+    "marks": {
+      "english": 82,
+      "science": 17,
+      "computers": 42,
+      "hardware": 11
+    }
+  },
+  {
+    "firstname": "Galloway",
+    "lastname": "Holden",
+    "email": "gallowayholden@nurplex.com",
+    "location": "Brewster, Idaho, 2842",
+    "phone": "+1 (951) 411-3174",
+    "current_class": "8th",
+    "address": {
+      "communication": "122 Folsom Place, Summertown, Tennessee, 832",
+      "permanent": "710 Brighton Avenue, Shepardsville, Maryland, 6521"
+    },
+    "marks": {
+      "english": 67,
+      "science": 75,
+      "computers": 74,
+      "hardware": 84
+    }
+  },
+  {
+    "firstname": "Rich",
+    "lastname": "Reynolds",
+    "email": "richreynolds@nurplex.com",
+    "location": "Ebro, Illinois, 9668",
+    "phone": "+1 (916) 582-3138",
+    "current_class": "6th",
+    "address": {
+      "communication": "689 Dank Court, Gasquet, Mississippi, 1665",
+      "permanent": "298 Cameron Court, Sexton, Alabama, 3972"
+    },
+    "marks": {
+      "english": 65,
+      "science": 54,
+      "computers": 30,
+      "hardware": 94
+    }
+  },
+  {
+    "firstname": "Holder",
+    "lastname": "Wolf",
+    "email": "holderwolf@nurplex.com",
+    "location": "Coinjock, Alaska, 736",
+    "phone": "+1 (817) 501-3729",
+    "current_class": "10th",
+    "address": {
+      "communication": "920 Commercial Street, Rowe, Indiana, 3793",
+      "permanent": "111 Ridgewood Place, Clarence, New Jersey, 8110"
+    },
+    "marks": {
+      "english": 55,
+      "science": 12,
+      "computers": 39,
+      "hardware": 84
+    }
+  },
+  {
+    "firstname": "Cooper",
+    "lastname": "Tanner",
+    "email": "coopertanner@nurplex.com",
+    "location": "Rosine, Kansas, 7486",
+    "phone": "+1 (899) 428-2262",
+    "current_class": "7th",
+    "address": {
+      "communication": "865 Irwin Street, Tyro, Wyoming, 9328",
+      "permanent": "529 Victor Road, Lewis, Hawaii, 4253"
+    },
+    "marks": {
+      "english": 63,
+      "science": 91,
+      "computers": 57,
+      "hardware": 97
+    }
+  },
+  {
+    "firstname": "Lauri",
+    "lastname": "Jackson",
+    "email": "laurijackson@nurplex.com",
+    "location": "Mammoth, Florida, 1347",
+    "phone": "+1 (872) 512-3281",
+    "current_class": "7th",
+    "address": {
+      "communication": "964 Sutton Street, Turah, Maine, 2391",
+      "permanent": "784 Carlton Avenue, Hollins, American Samoa, 621"
+    },
+    "marks": {
+      "english": 62,
+      "science": 39,
+      "computers": 62,
+      "hardware": 28
+    }
+  },
+  {
+    "firstname": "Mindy",
+    "lastname": "English",
+    "email": "mindyenglish@nurplex.com",
+    "location": "Faywood, Pennsylvania, 4524",
+    "phone": "+1 (994) 464-3312",
+    "current_class": "10th",
+    "address": {
+      "communication": "588 Newton Street, Richville, Arkansas, 6960",
+      "permanent": "477 Bay Street, Hardyville, Nebraska, 3986"
+    },
+    "marks": {
+      "english": 55,
+      "science": 98,
+      "computers": 56,
+      "hardware": 83
+    }
+  },
+  {
+    "firstname": "Pickett",
+    "lastname": "Blair",
+    "email": "pickettblair@nurplex.com",
+    "location": "Craig, Michigan, 4697",
+    "phone": "+1 (892) 453-3761",
+    "current_class": "6th",
+    "address": {
+      "communication": "942 Berry Street, Islandia, Utah, 3581",
+      "permanent": "284 Lee Avenue, Macdona, Virgin Islands, 4786"
+    },
+    "marks": {
+      "english": 54,
+      "science": 14,
+      "computers": 77,
+      "hardware": 69
+    }
+  },
+  {
+    "firstname": "Schneider",
+    "lastname": "Hopkins",
+    "email": "schneiderhopkins@nurplex.com",
+    "location": "Beaverdale, Federated States Of Micronesia, 6350",
+    "phone": "+1 (894) 444-2020",
+    "current_class": "10th",
+    "address": {
+      "communication": "260 Barlow Drive, Hickory, Nevada, 5318",
+      "permanent": "536 Wyckoff Street, Cashtown, Texas, 9613"
+    },
+    "marks": {
+      "english": 79,
+      "science": 14,
+      "computers": 26,
+      "hardware": 62
+    }
+  },
+  {
+    "firstname": "Rosa",
+    "lastname": "Kidd",
+    "email": "rosakidd@nurplex.com",
+    "location": "Retsof, New York, 4543",
+    "phone": "+1 (911) 487-3753",
+    "current_class": "7th",
+    "address": {
+      "communication": "667 Ford Street, Stockdale, New Mexico, 1264",
+      "permanent": "233 Menahan Street, Oasis, South Carolina, 2143"
+    },
+    "marks": {
+      "english": 15,
+      "science": 50,
+      "computers": 75,
+      "hardware": 10
+    }
+  },
+  {
+    "firstname": "Dianne",
+    "lastname": "Hickman",
+    "email": "diannehickman@nurplex.com",
+    "location": "Zeba, Marshall Islands, 9431",
+    "phone": "+1 (906) 504-2442",
+    "current_class": "10th",
+    "address": {
+      "communication": "777 Dewey Place, Walland, Oregon, 3168",
+      "permanent": "464 Croton Loop, Navarre, Georgia, 4762"
+    },
+    "marks": {
+      "english": 10,
+      "science": 93,
+      "computers": 22,
+      "hardware": 50
+    }
+  },
+  {
+    "firstname": "Rhonda",
+    "lastname": "Vargas",
+    "email": "rhondavargas@nurplex.com",
+    "location": "Tivoli, Oklahoma, 6609",
+    "phone": "+1 (948) 466-2241",
+    "current_class": "10th",
+    "address": {
+      "communication": "645 Brown Street, Wolcott, West Virginia, 4425",
+      "permanent": "736 Bank Street, Norwood, South Dakota, 3666"
+    },
+    "marks": {
+      "english": 37,
+      "science": 88,
+      "computers": 97,
+      "hardware": 84
+    }
+  },
+  {
+    "firstname": "Myra",
+    "lastname": "Fulton",
+    "email": "myrafulton@nurplex.com",
+    "location": "Riegelwood, North Dakota, 8717",
+    "phone": "+1 (890) 430-2001",
+    "current_class": "8th",
+    "address": {
+      "communication": "196 Polar Street, Chesterfield, Wisconsin, 9399",
+      "permanent": "877 Pitkin Avenue, Goodville, Northern Mariana Islands, 7499"
+    },
+    "marks": {
+      "english": 50,
+      "science": 91,
+      "computers": 23,
+      "hardware": 78
+    }
+  },
+  {
+    "firstname": "Steele",
+    "lastname": "Gilmore",
+    "email": "steelegilmore@nurplex.com",
+    "location": "Martinez, Arizona, 6451",
+    "phone": "+1 (871) 400-3656",
+    "current_class": "7th",
+    "address": {
+      "communication": "627 Jamaica Avenue, Rosewood, Iowa, 6581",
+      "permanent": "427 Hutchinson Court, Riviera, Rhode Island, 4856"
+    },
+    "marks": {
+      "english": 59,
+      "science": 11,
+      "computers": 55,
+      "hardware": 49
+    }
+  },
+  {
+    "firstname": "French",
+    "lastname": "Acevedo",
+    "email": "frenchacevedo@nurplex.com",
+    "location": "Dixie, Connecticut, 4163",
+    "phone": "+1 (901) 400-3212",
+    "current_class": "7th",
+    "address": {
+      "communication": "762 Hyman Court, Lindcove, Missouri, 2827",
+      "permanent": "163 Newport Street, Brethren, Palau, 731"
+    },
+    "marks": {
+      "english": 88,
+      "science": 56,
+      "computers": 60,
+      "hardware": 99
+    }
+  },
+  {
+    "firstname": "Andrews",
+    "lastname": "Miller",
+    "email": "andrewsmiller@nurplex.com",
+    "location": "Tuskahoma, Virginia, 9437",
+    "phone": "+1 (871) 432-2775",
+    "current_class": "6th",
+    "address": {
+      "communication": "164 Kane Place, Shaft, California, 456",
+      "permanent": "275 Bayview Place, Homestead, New Hampshire, 6927"
+    },
+    "marks": {
+      "english": 49,
+      "science": 45,
+      "computers": 97,
+      "hardware": 92
+    }
+  },
+  {
+    "firstname": "Ada",
+    "lastname": "Clay",
+    "email": "adaclay@nurplex.com",
+    "location": "Dante, North Carolina, 315",
+    "phone": "+1 (819) 573-2703",
+    "current_class": "6th",
+    "address": {
+      "communication": "747 Boardwalk , Waikele, Colorado, 1492",
+      "permanent": "410 Herzl Street, Stewartville, Louisiana, 5265"
+    },
+    "marks": {
+      "english": 22,
+      "science": 39,
+      "computers": 27,
+      "hardware": 24
+    }
+  },
+  {
+    "firstname": "Frye",
+    "lastname": "Wall",
+    "email": "fryewall@nurplex.com",
+    "location": "Chaparrito, District Of Columbia, 1683",
+    "phone": "+1 (938) 474-3562",
+    "current_class": "7th",
+    "address": {
+      "communication": "948 Dunne Court, Golconda, Washington, 2898",
+      "permanent": "851 Beach Place, Bellfountain, Massachusetts, 7788"
+    },
+    "marks": {
+      "english": 85,
+      "science": 62,
+      "computers": 22,
+      "hardware": 50
+    }
+  },
+  {
+    "firstname": "Maryellen",
+    "lastname": "Bishop",
+    "email": "maryellenbishop@nurplex.com",
+    "location": "Frizzleburg, Ohio, 938",
+    "phone": "+1 (935) 573-3608",
+    "current_class": "9th",
+    "address": {
+      "communication": "644 Georgia Avenue, Axis, Kentucky, 9514",
+      "permanent": "119 Beverley Road, Unionville, Minnesota, 6078"
+    },
+    "marks": {
+      "english": 59,
+      "science": 100,
+      "computers": 49,
+      "hardware": 92
+    }
+  },
+  {
+    "firstname": "Harrell",
+    "lastname": "Holder",
+    "email": "harrellholder@nurplex.com",
+    "location": "Ladera, Delaware, 4201",
+    "phone": "+1 (961) 541-2247",
+    "current_class": "8th",
+    "address": {
+      "communication": "184 Clifford Place, Gouglersville, Puerto Rico, 4745",
+      "permanent": "265 Jamison Lane, Fingerville, Vermont, 9603"
+    },
+    "marks": {
+      "english": 91,
+      "science": 64,
+      "computers": 22,
+      "hardware": 53
+    }
+  },
+  {
+    "firstname": "Price",
+    "lastname": "Cummings",
+    "email": "pricecummings@nurplex.com",
+    "location": "Lumberton, Montana, 4457",
+    "phone": "+1 (936) 595-2319",
+    "current_class": "8th",
+    "address": {
+      "communication": "770 Coyle Street, Thomasville, Idaho, 4898",
+      "permanent": "824 Seigel Street, Statenville, Tennessee, 1126"
+    },
+    "marks": {
+      "english": 50,
+      "science": 57,
+      "computers": 34,
+      "hardware": 72
+    }
+  },
+  {
+    "firstname": "Hensley",
+    "lastname": "Solis",
+    "email": "hensleysolis@nurplex.com",
+    "location": "Oberlin, Maryland, 7272",
+    "phone": "+1 (988) 450-3497",
+    "current_class": "10th",
+    "address": {
+      "communication": "216 Beaumont Street, Southview, Illinois, 4273",
+      "permanent": "494 Hampton Place, Vallonia, Mississippi, 4739"
+    },
+    "marks": {
+      "english": 23,
+      "science": 47,
+      "computers": 72,
+      "hardware": 90
+    }
+  },
+  {
+    "firstname": "Sawyer",
+    "lastname": "Sanders",
+    "email": "sawyersanders@nurplex.com",
+    "location": "Johnsonburg, Alabama, 1411",
+    "phone": "+1 (878) 411-3755",
+    "current_class": "9th",
+    "address": {
+      "communication": "470 Bristol Street, Robbins, Alaska, 7641",
+      "permanent": "980 Rutherford Place, Stonybrook, Indiana, 4789"
+    },
+    "marks": {
+      "english": 43,
+      "science": 28,
+      "computers": 39,
+      "hardware": 65
+    }
+  },
+  {
+    "firstname": "Gabriela",
+    "lastname": "Tate",
+    "email": "gabrielatate@nurplex.com",
+    "location": "Worton, New Jersey, 7317",
+    "phone": "+1 (874) 597-2042",
+    "current_class": "6th",
+    "address": {
+      "communication": "109 Adelphi Street, Guthrie, Kansas, 2109",
+      "permanent": "251 Nixon Court, Terlingua, Wyoming, 6316"
+    },
+    "marks": {
+      "english": 67,
+      "science": 42,
+      "computers": 42,
+      "hardware": 84
+    }
+  },
+  {
+    "firstname": "Copeland",
+    "lastname": "Welch",
+    "email": "copelandwelch@nurplex.com",
+    "location": "Savannah, Hawaii, 3487",
+    "phone": "+1 (842) 532-3972",
+    "current_class": "7th",
+    "address": {
+      "communication": "903 Beverly Road, Crucible, Florida, 7126",
+      "permanent": "958 Merit Court, Baker, Maine, 5753"
+    },
+    "marks": {
+      "english": 99,
+      "science": 33,
+      "computers": 73,
+      "hardware": 93
+    }
+  },
+  {
+    "firstname": "Todd",
+    "lastname": "Willis",
+    "email": "toddwillis@nurplex.com",
+    "location": "Cumminsville, American Samoa, 8276",
+    "phone": "+1 (856) 460-3094",
+    "current_class": "10th",
+    "address": {
+      "communication": "602 Louise Terrace, Nescatunga, Pennsylvania, 3727",
+      "permanent": "280 Dumont Avenue, Wells, Arkansas, 7067"
+    },
+    "marks": {
+      "english": 49,
+      "science": 28,
+      "computers": 81,
+      "hardware": 13
+    }
+  },
+  {
+    "firstname": "Elisabeth",
+    "lastname": "Chan",
+    "email": "elisabethchan@nurplex.com",
+    "location": "Coyote, Nebraska, 3122",
+    "phone": "+1 (800) 431-2363",
+    "current_class": "8th",
+    "address": {
+      "communication": "636 Bulwer Place, Brady, Michigan, 1294",
+      "permanent": "203 Oriental Boulevard, Gerton, Utah, 5749"
+    },
+    "marks": {
+      "english": 23,
+      "science": 12,
+      "computers": 48,
+      "hardware": 50
+    }
+  },
+  {
+    "firstname": "White",
+    "lastname": "Bradford",
+    "email": "whitebradford@nurplex.com",
+    "location": "Wescosville, Virgin Islands, 4315",
+    "phone": "+1 (881) 600-2358",
+    "current_class": "9th",
+    "address": {
+      "communication": "760 McKibben Street, Crenshaw, Federated States Of Micronesia, 164",
+      "permanent": "528 Jewel Street, Edneyville, Nevada, 5597"
+    },
+    "marks": {
+      "english": 100,
+      "science": 37,
+      "computers": 54,
+      "hardware": 37
+    }
+  },
+  {
+    "firstname": "Acevedo",
+    "lastname": "Mcpherson",
+    "email": "acevedomcpherson@nurplex.com",
+    "location": "Sharon, Texas, 2155",
+    "phone": "+1 (909) 574-3086",
+    "current_class": "8th",
+    "address": {
+      "communication": "373 Tech Place, Darbydale, New York, 8846",
+      "permanent": "202 Tabor Court, Eureka, New Mexico, 2004"
+    },
+    "marks": {
+      "english": 56,
+      "science": 34,
+      "computers": 34,
+      "hardware": 65
+    }
+  },
+  {
+    "firstname": "Forbes",
+    "lastname": "Espinoza",
+    "email": "forbesespinoza@nurplex.com",
+    "location": "Fannett, South Carolina, 1337",
+    "phone": "+1 (997) 494-3318",
+    "current_class": "10th",
+    "address": {
+      "communication": "434 Division Avenue, Alleghenyville, Marshall Islands, 1046",
+      "permanent": "544 Haring Street, Oneida, Oregon, 853"
+    },
+    "marks": {
+      "english": 15,
+      "science": 52,
+      "computers": 44,
+      "hardware": 15
+    }
+  },
+  {
+    "firstname": "Alison",
+    "lastname": "Robinson",
+    "email": "alisonrobinson@nurplex.com",
+    "location": "Mathews, Georgia, 4188",
+    "phone": "+1 (878) 507-2285",
+    "current_class": "7th",
+    "address": {
+      "communication": "597 Ridgewood Avenue, Downsville, Oklahoma, 6440",
+      "permanent": "220 Elliott Place, Dunnavant, West Virginia, 4789"
+    },
+    "marks": {
+      "english": 41,
+      "science": 83,
+      "computers": 57,
+      "hardware": 32
+    }
+  },
+  {
+    "firstname": "Morin",
+    "lastname": "Browning",
+    "email": "morinbrowning@nurplex.com",
+    "location": "Siglerville, South Dakota, 1233",
+    "phone": "+1 (973) 565-3720",
+    "current_class": "9th",
+    "address": {
+      "communication": "563 Concord Street, Adamstown, North Dakota, 3696",
+      "permanent": "288 Gaylord Drive, Gadsden, Wisconsin, 6998"
+    },
+    "marks": {
+      "english": 22,
+      "science": 11,
+      "computers": 44,
+      "hardware": 82
+    }
+  },
+  {
+    "firstname": "Judith",
+    "lastname": "Barker",
+    "email": "judithbarker@nurplex.com",
+    "location": "Floriston, Northern Mariana Islands, 2118",
+    "phone": "+1 (813) 423-3535",
+    "current_class": "6th",
+    "address": {
+      "communication": "801 Kosciusko Street, Belmont, Arizona, 4995",
+      "permanent": "570 Hegeman Avenue, Tampico, Iowa, 6215"
+    },
+    "marks": {
+      "english": 36,
+      "science": 41,
+      "computers": 48,
+      "hardware": 35
+    }
+  },
+  {
+    "firstname": "Velez",
+    "lastname": "Hartman",
+    "email": "velezhartman@nurplex.com",
+    "location": "Lookingglass, Rhode Island, 5422",
+    "phone": "+1 (902) 466-2954",
+    "current_class": "6th",
+    "address": {
+      "communication": "579 McKinley Avenue, Falmouth, Connecticut, 3279",
+      "permanent": "192 Varet Street, Heil, Missouri, 667"
+    },
+    "marks": {
+      "english": 94,
+      "science": 96,
+      "computers": 14,
+      "hardware": 31
+    }
+  },
+  {
+    "firstname": "Duke",
+    "lastname": "Mcbride",
+    "email": "dukemcbride@nurplex.com",
+    "location": "Kula, Palau, 7049",
+    "phone": "+1 (929) 428-3923",
+    "current_class": "8th",
+    "address": {
+      "communication": "234 Virginia Place, Franklin, Virginia, 8215",
+      "permanent": "362 Box Street, Bowmansville, California, 9454"
+    },
+    "marks": {
+      "english": 12,
+      "science": 59,
+      "computers": 97,
+      "hardware": 64
+    }
+  },
+  {
+    "firstname": "Sharlene",
+    "lastname": "Horne",
+    "email": "sharlenehorne@nurplex.com",
+    "location": "Floris, New Hampshire, 3659",
+    "phone": "+1 (935) 545-2284",
+    "current_class": "6th",
+    "address": {
+      "communication": "902 Bergen Place, Taycheedah, North Carolina, 2721",
+      "permanent": "149 Kenilworth Place, Jennings, Colorado, 5043"
+    },
+    "marks": {
+      "english": 24,
+      "science": 76,
+      "computers": 31,
+      "hardware": 75
+    }
+  },
+  {
+    "firstname": "Odonnell",
+    "lastname": "Erickson",
+    "email": "odonnellerickson@nurplex.com",
+    "location": "Juntura, Louisiana, 8953",
+    "phone": "+1 (973) 529-2932",
+    "current_class": "9th",
+    "address": {
+      "communication": "802 Beacon Court, Ferney, District Of Columbia, 5112",
+      "permanent": "740 Lefferts Place, Fresno, Washington, 8185"
+    },
+    "marks": {
+      "english": 47,
+      "science": 97,
+      "computers": 76,
+      "hardware": 91
+    }
+  },
+  {
+    "firstname": "Amalia",
+    "lastname": "Brennan",
+    "email": "amaliabrennan@nurplex.com",
+    "location": "Malott, Massachusetts, 6975",
+    "phone": "+1 (839) 476-3489",
+    "current_class": "8th",
+    "address": {
+      "communication": "412 Greene Avenue, Clay, Ohio, 6931",
+      "permanent": "470 Railroad Avenue, Montura, Kentucky, 9544"
+    },
+    "marks": {
+      "english": 18,
+      "science": 11,
+      "computers": 84,
+      "hardware": 34
+    }
+  },
+  {
+    "firstname": "Alisha",
+    "lastname": "Cole",
+    "email": "alishacole@nurplex.com",
+    "location": "Mansfield, Minnesota, 1144",
+    "phone": "+1 (961) 459-2435",
+    "current_class": "7th",
+    "address": {
+      "communication": "970 Stoddard Place, Joppa, Delaware, 370",
+      "permanent": "882 Howard Alley, Freelandville, Puerto Rico, 4458"
+    },
+    "marks": {
+      "english": 67,
+      "science": 66,
+      "computers": 32,
+      "hardware": 47
+    }
+  },
+  {
+    "firstname": "Mildred",
+    "lastname": "Hayes",
+    "email": "mildredhayes@nurplex.com",
+    "location": "Forbestown, Vermont, 9626",
+    "phone": "+1 (948) 522-3197",
+    "current_class": "6th",
+    "address": {
+      "communication": "552 Furman Street, Dargan, Montana, 7173",
+      "permanent": "122 Fillmore Place, Bodega, Idaho, 1342"
+    },
+    "marks": {
+      "english": 42,
+      "science": 95,
+      "computers": 87,
+      "hardware": 45
+    }
+  },
+  {
+    "firstname": "Bridgette",
+    "lastname": "Good",
+    "email": "bridgettegood@nurplex.com",
+    "location": "Chicopee, Tennessee, 7461",
+    "phone": "+1 (843) 584-2567",
+    "current_class": "8th",
+    "address": {
+      "communication": "332 Agate Court, Chesapeake, Maryland, 3276",
+      "permanent": "524 Butler Street, Slovan, Illinois, 6680"
+    },
+    "marks": {
+      "english": 24,
+      "science": 55,
+      "computers": 59,
+      "hardware": 19
+    }
+  },
+  {
+    "firstname": "Anderson",
+    "lastname": "Reese",
+    "email": "andersonreese@nurplex.com",
+    "location": "Wacissa, Mississippi, 6572",
+    "phone": "+1 (837) 574-3284",
+    "current_class": "9th",
+    "address": {
+      "communication": "988 Franklin Avenue, Kidder, Alabama, 8307",
+      "permanent": "343 Utica Avenue, Matheny, Alaska, 1350"
+    },
+    "marks": {
+      "english": 82,
+      "science": 43,
+      "computers": 59,
+      "hardware": 61
+    }
+  },
+  {
+    "firstname": "Cook",
+    "lastname": "Molina",
+    "email": "cookmolina@nurplex.com",
+    "location": "Maury, Indiana, 9854",
+    "phone": "+1 (881) 438-2691",
+    "current_class": "9th",
+    "address": {
+      "communication": "555 Madoc Avenue, Newcastle, New Jersey, 6306",
+      "permanent": "685 Adler Place, Whitmer, Kansas, 6840"
+    },
+    "marks": {
+      "english": 49,
+      "science": 36,
+      "computers": 69,
+      "hardware": 23
+    }
+  },
+  {
+    "firstname": "Dale",
+    "lastname": "Marsh",
+    "email": "dalemarsh@nurplex.com",
+    "location": "Gibsonia, Wyoming, 6519",
+    "phone": "+1 (818) 530-3977",
+    "current_class": "8th",
+    "address": {
+      "communication": "225 Brooklyn Road, Saddlebrooke, Hawaii, 9470",
+      "permanent": "430 Falmouth Street, Waverly, Florida, 4298"
+    },
+    "marks": {
+      "english": 42,
+      "science": 14,
+      "computers": 80,
+      "hardware": 62
+    }
+  },
+  {
+    "firstname": "Elena",
+    "lastname": "Cline",
+    "email": "elenacline@nurplex.com",
+    "location": "Soudan, Maine, 451",
+    "phone": "+1 (844) 410-3770",
+    "current_class": "8th",
+    "address": {
+      "communication": "440 Senator Street, Epworth, American Samoa, 4280",
+      "permanent": "944 Ridge Court, Crown, Pennsylvania, 2367"
+    },
+    "marks": {
+      "english": 99,
+      "science": 63,
+      "computers": 41,
+      "hardware": 97
+    }
+  },
+  {
+    "firstname": "Stephens",
+    "lastname": "Stevenson",
+    "email": "stephensstevenson@nurplex.com",
+    "location": "Conway, Arkansas, 7338",
+    "phone": "+1 (953) 450-2481",
+    "current_class": "8th",
+    "address": {
+      "communication": "406 Kiely Place, Enlow, Nebraska, 1557",
+      "permanent": "745 Jaffray Street, Stollings, Michigan, 6294"
+    },
+    "marks": {
+      "english": 37,
+      "science": 94,
+      "computers": 75,
+      "hardware": 33
+    }
+  },
+  {
+    "firstname": "Ora",
+    "lastname": "Greer",
+    "email": "oragreer@nurplex.com",
+    "location": "Bainbridge, Utah, 1935",
+    "phone": "+1 (897) 554-3714",
+    "current_class": "9th",
+    "address": {
+      "communication": "157 Hinsdale Street, Jamestown, Virgin Islands, 108",
+      "permanent": "103 Verona Street, Croom, Federated States Of Micronesia, 9296"
+    },
+    "marks": {
+      "english": 51,
+      "science": 63,
+      "computers": 78,
+      "hardware": 98
+    }
+  },
+  {
+    "firstname": "Coffey",
+    "lastname": "Townsend",
+    "email": "coffeytownsend@nurplex.com",
+    "location": "National, Nevada, 1014",
+    "phone": "+1 (978) 510-2803",
+    "current_class": "6th",
+    "address": {
+      "communication": "794 Ludlam Place, Ola, Texas, 2287",
+      "permanent": "234 Roosevelt Court, Neahkahnie, New York, 7596"
+    },
+    "marks": {
+      "english": 83,
+      "science": 91,
+      "computers": 52,
+      "hardware": 15
+    }
+  },
+  {
+    "firstname": "Horn",
+    "lastname": "Spencer",
+    "email": "hornspencer@nurplex.com",
+    "location": "Crayne, New Mexico, 7503",
+    "phone": "+1 (883) 591-3823",
+    "current_class": "8th",
+    "address": {
+      "communication": "900 Bedford Avenue, Oceola, South Carolina, 4104",
+      "permanent": "715 Wogan Terrace, Waumandee, Marshall Islands, 9619"
+    },
+    "marks": {
+      "english": 74,
+      "science": 88,
+      "computers": 18,
+      "hardware": 42
+    }
+  },
+  {
+    "firstname": "Kristi",
+    "lastname": "Pope",
+    "email": "kristipope@nurplex.com",
+    "location": "Hiwasse, Oregon, 3925",
+    "phone": "+1 (874) 518-3240",
+    "current_class": "8th",
+    "address": {
+      "communication": "702 Anthony Street, Gilmore, Georgia, 380",
+      "permanent": "883 Lott Place, Titanic, Oklahoma, 5919"
+    },
+    "marks": {
+      "english": 26,
+      "science": 20,
+      "computers": 62,
+      "hardware": 76
+    }
+  },
+  {
+    "firstname": "Doris",
+    "lastname": "Padilla",
+    "email": "dorispadilla@nurplex.com",
+    "location": "Canoochee, West Virginia, 3607",
+    "phone": "+1 (894) 422-3094",
+    "current_class": "9th",
+    "address": {
+      "communication": "804 Pleasant Place, Bentley, South Dakota, 9401",
+      "permanent": "980 Perry Terrace, Gwynn, North Dakota, 4671"
+    },
+    "marks": {
+      "english": 67,
+      "science": 11,
+      "computers": 78,
+      "hardware": 64
+    }
+  },
+  {
+    "firstname": "Maggie",
+    "lastname": "Gallagher",
+    "email": "maggiegallagher@nurplex.com",
+    "location": "Mulino, Wisconsin, 8316",
+    "phone": "+1 (865) 431-3088",
+    "current_class": "7th",
+    "address": {
+      "communication": "267 Hewes Street, Crisman, Northern Mariana Islands, 2749",
+      "permanent": "383 Bethel Loop, Kansas, Arizona, 7345"
+    },
+    "marks": {
+      "english": 46,
+      "science": 40,
+      "computers": 24,
+      "hardware": 55
+    }
+  },
+  {
+    "firstname": "Whitney",
+    "lastname": "Barnes",
+    "email": "whitneybarnes@nurplex.com",
+    "location": "Enoree, Iowa, 8357",
+    "phone": "+1 (847) 437-3324",
+    "current_class": "10th",
+    "address": {
+      "communication": "434 Homecrest Avenue, Hondah, Rhode Island, 5468",
+      "permanent": "233 Eldert Street, Lydia, Connecticut, 8114"
+    },
+    "marks": {
+      "english": 49,
+      "science": 42,
+      "computers": 60,
+      "hardware": 18
+    }
+  },
+  {
+    "firstname": "Lila",
+    "lastname": "Kaufman",
+    "email": "lilakaufman@nurplex.com",
+    "location": "Carlos, Missouri, 8969",
+    "phone": "+1 (930) 496-3826",
+    "current_class": "9th",
+    "address": {
+      "communication": "161 Cumberland Walk, Cedarville, Palau, 9683",
+      "permanent": "865 Lorimer Street, Lisco, Virginia, 2770"
+    },
+    "marks": {
+      "english": 42,
+      "science": 46,
+      "computers": 86,
+      "hardware": 34
+    }
+  },
+  {
+    "firstname": "Tricia",
+    "lastname": "Hawkins",
+    "email": "triciahawkins@nurplex.com",
+    "location": "Columbus, California, 131",
+    "phone": "+1 (910) 416-2800",
+    "current_class": "8th",
+    "address": {
+      "communication": "918 Evans Street, Cliff, New Hampshire, 1355",
+      "permanent": "479 Seaview Court, Fredericktown, North Carolina, 9107"
+    },
+    "marks": {
+      "english": 30,
+      "science": 85,
+      "computers": 52,
+      "hardware": 11
+    }
+  },
+  {
+    "firstname": "Kaitlin",
+    "lastname": "Anderson",
+    "email": "kaitlinanderson@nurplex.com",
+    "location": "Robinson, Colorado, 675",
+    "phone": "+1 (929) 422-3355",
+    "current_class": "6th",
+    "address": {
+      "communication": "489 Elizabeth Place, Morriston, Louisiana, 5379",
+      "permanent": "636 Wolf Place, Veyo, District Of Columbia, 6546"
+    },
+    "marks": {
+      "english": 24,
+      "science": 91,
+      "computers": 30,
+      "hardware": 88
+    }
+  },
+  {
+    "firstname": "Reese",
+    "lastname": "Witt",
+    "email": "reesewitt@nurplex.com",
+    "location": "Elwood, Washington, 2399",
+    "phone": "+1 (870) 402-2448",
+    "current_class": "7th",
+    "address": {
+      "communication": "714 Mersereau Court, Coloma, Massachusetts, 6439",
+      "permanent": "780 Ryder Avenue, Villarreal, Ohio, 6482"
+    },
+    "marks": {
+      "english": 92,
+      "science": 59,
+      "computers": 66,
+      "hardware": 21
+    }
+  },
+  {
+    "firstname": "Yates",
+    "lastname": "Pittman",
+    "email": "yatespittman@nurplex.com",
+    "location": "Berwind, Kentucky, 3127",
+    "phone": "+1 (835) 550-2838",
+    "current_class": "7th",
+    "address": {
+      "communication": "760 Melba Court, Caron, Minnesota, 4107",
+      "permanent": "256 Henderson Walk, Kenvil, Delaware, 5624"
+    },
+    "marks": {
+      "english": 89,
+      "science": 52,
+      "computers": 24,
+      "hardware": 59
+    }
+  },
+  {
+    "firstname": "Jaclyn",
+    "lastname": "Winters",
+    "email": "jaclynwinters@nurplex.com",
+    "location": "Greenock, Puerto Rico, 7868",
+    "phone": "+1 (857) 573-2646",
+    "current_class": "9th",
+    "address": {
+      "communication": "145 Miami Court, Bendon, Vermont, 9928",
+      "permanent": "594 Hall Street, Caln, Montana, 6229"
+    },
+    "marks": {
+      "english": 70,
+      "science": 59,
+      "computers": 78,
+      "hardware": 23
+    }
+  },
+  {
+    "firstname": "Levine",
+    "lastname": "Sandoval",
+    "email": "levinesandoval@nurplex.com",
+    "location": "Austinburg, Idaho, 1785",
+    "phone": "+1 (941) 497-3779",
+    "current_class": "8th",
+    "address": {
+      "communication": "584 Brightwater Avenue, Taft, Tennessee, 6954",
+      "permanent": "200 Bartlett Place, Roderfield, Maryland, 5808"
+    },
+    "marks": {
+      "english": 81,
+      "science": 71,
+      "computers": 18,
+      "hardware": 72
+    }
+  },
+  {
+    "firstname": "Kristine",
+    "lastname": "Marshall",
+    "email": "kristinemarshall@nurplex.com",
+    "location": "Holcombe, Illinois, 6822",
+    "phone": "+1 (950) 419-2791",
+    "current_class": "7th",
+    "address": {
+      "communication": "650 Willoughby Avenue, Greenbackville, Mississippi, 7063",
+      "permanent": "818 Veranda Place, Layhill, Alabama, 4688"
+    },
+    "marks": {
+      "english": 95,
+      "science": 100,
+      "computers": 55,
+      "hardware": 87
+    }
+  },
+  {
+    "firstname": "Lara",
+    "lastname": "Slater",
+    "email": "laraslater@nurplex.com",
+    "location": "Chloride, Alaska, 626",
+    "phone": "+1 (948) 540-3076",
+    "current_class": "8th",
+    "address": {
+      "communication": "145 Ryder Street, Soham, Indiana, 8605",
+      "permanent": "765 Fayette Street, Rockhill, New Jersey, 8293"
+    },
+    "marks": {
+      "english": 56,
+      "science": 43,
+      "computers": 36,
+      "hardware": 81
+    }
+  },
+  {
+    "firstname": "Fuentes",
+    "lastname": "Olson",
+    "email": "fuentesolson@nurplex.com",
+    "location": "Lindisfarne, Kansas, 1540",
+    "phone": "+1 (874) 458-3521",
+    "current_class": "7th",
+    "address": {
+      "communication": "352 Chester Court, Wauhillau, Wyoming, 412",
+      "permanent": "600 Lombardy Street, Stockwell, Hawaii, 6748"
+    },
+    "marks": {
+      "english": 93,
+      "science": 64,
+      "computers": 65,
+      "hardware": 69
+    }
+  },
+  {
+    "firstname": "Mosley",
+    "lastname": "Burks",
+    "email": "mosleyburks@nurplex.com",
+    "location": "Venice, Florida, 7899",
+    "phone": "+1 (944) 522-2588",
+    "current_class": "7th",
+    "address": {
+      "communication": "260 Lott Street, Suitland, Maine, 9617",
+      "permanent": "232 Oakland Place, Nicut, American Samoa, 4338"
+    },
+    "marks": {
+      "english": 39,
+      "science": 51,
+      "computers": 99,
+      "hardware": 34
+    }
+  },
+  {
+    "firstname": "Vinson",
+    "lastname": "White",
+    "email": "vinsonwhite@nurplex.com",
+    "location": "Blende, Pennsylvania, 5799",
+    "phone": "+1 (834) 541-2971",
+    "current_class": "6th",
+    "address": {
+      "communication": "641 Moultrie Street, Fidelis, Arkansas, 8869",
+      "permanent": "325 Highland Boulevard, Enetai, Nebraska, 4443"
+    },
+    "marks": {
+      "english": 27,
+      "science": 85,
+      "computers": 98,
+      "hardware": 67
+    }
+  },
+  {
+    "firstname": "Sandoval",
+    "lastname": "Dickson",
+    "email": "sandovaldickson@nurplex.com",
+    "location": "Needmore, Michigan, 4798",
+    "phone": "+1 (845) 403-3471",
+    "current_class": "8th",
+    "address": {
+      "communication": "776 Morgan Avenue, Camino, Utah, 9998",
+      "permanent": "828 Douglass Street, Rehrersburg, Virgin Islands, 2019"
+    },
+    "marks": {
+      "english": 66,
+      "science": 85,
+      "computers": 16,
+      "hardware": 72
+    }
+  },
+  {
+    "firstname": "Janna",
+    "lastname": "Estrada",
+    "email": "jannaestrada@nurplex.com",
+    "location": "Snyderville, Federated States Of Micronesia, 4737",
+    "phone": "+1 (951) 538-2577",
+    "current_class": "8th",
+    "address": {
+      "communication": "753 Berkeley Place, Oley, Nevada, 7765",
+      "permanent": "763 Oliver Street, Longbranch, Texas, 194"
+    },
+    "marks": {
+      "english": 29,
+      "science": 59,
+      "computers": 96,
+      "hardware": 34
+    }
+  },
+  {
+    "firstname": "Becker",
+    "lastname": "Guerra",
+    "email": "beckerguerra@nurplex.com",
+    "location": "Edmund, New York, 8370",
+    "phone": "+1 (880) 498-3142",
+    "current_class": "10th",
+    "address": {
+      "communication": "686 Brighton Court, Dyckesville, New Mexico, 7696",
+      "permanent": "212 Dinsmore Place, Carbonville, South Carolina, 2332"
+    },
+    "marks": {
+      "english": 45,
+      "science": 17,
+      "computers": 62,
+      "hardware": 71
+    }
+  },
+  {
+    "firstname": "Elinor",
+    "lastname": "Carroll",
+    "email": "elinorcarroll@nurplex.com",
+    "location": "Fairacres, Marshall Islands, 5540",
+    "phone": "+1 (931) 530-3377",
+    "current_class": "8th",
+    "address": {
+      "communication": "135 Rockaway Avenue, Genoa, Oregon, 2236",
+      "permanent": "227 Stockton Street, Fairhaven, Georgia, 2810"
+    },
+    "marks": {
+      "english": 23,
+      "science": 63,
+      "computers": 85,
+      "hardware": 52
+    }
+  },
+  {
+    "firstname": "Hardin",
+    "lastname": "Buckner",
+    "email": "hardinbuckner@nurplex.com",
+    "location": "Vernon, Oklahoma, 2207",
+    "phone": "+1 (970) 475-3084",
+    "current_class": "8th",
+    "address": {
+      "communication": "477 Dobbin Street, Hebron, West Virginia, 6135",
+      "permanent": "989 Bridge Street, Torboy, South Dakota, 9001"
+    },
+    "marks": {
+      "english": 84,
+      "science": 93,
+      "computers": 73,
+      "hardware": 15
+    }
+  },
+  {
+    "firstname": "Myers",
+    "lastname": "Shaw",
+    "email": "myersshaw@nurplex.com",
+    "location": "Trexlertown, North Dakota, 7513",
+    "phone": "+1 (859) 562-2993",
+    "current_class": "7th",
+    "address": {
+      "communication": "540 Glen Street, Richmond, Wisconsin, 375",
+      "permanent": "652 Bay Parkway, Talpa, Northern Mariana Islands, 9993"
+    },
+    "marks": {
+      "english": 44,
+      "science": 66,
+      "computers": 57,
+      "hardware": 56
+    }
+  },
+  {
+    "firstname": "Eunice",
+    "lastname": "Gardner",
+    "email": "eunicegardner@nurplex.com",
+    "location": "Dorneyville, Arizona, 4239",
+    "phone": "+1 (807) 578-3552",
+    "current_class": "10th",
+    "address": {
+      "communication": "782 Evergreen Avenue, Brandywine, Iowa, 7580",
+      "permanent": "302 Hampton Avenue, Hailesboro, Rhode Island, 9733"
+    },
+    "marks": {
+      "english": 29,
+      "science": 31,
+      "computers": 72,
+      "hardware": 36
+    }
+  },
+  {
+    "firstname": "Kline",
+    "lastname": "Johnston",
+    "email": "klinejohnston@nurplex.com",
+    "location": "Marshall, Connecticut, 5314",
+    "phone": "+1 (917) 450-2038",
+    "current_class": "10th",
+    "address": {
+      "communication": "560 Vandam Street, Tioga, Missouri, 4310",
+      "permanent": "689 Turner Place, Coaldale, Palau, 6658"
+    },
+    "marks": {
+      "english": 11,
+      "science": 63,
+      "computers": 27,
+      "hardware": 62
+    }
+  },
+  {
+    "firstname": "Rojas",
+    "lastname": "Macdonald",
+    "email": "rojasmacdonald@nurplex.com",
+    "location": "Konterra, Virginia, 2421",
+    "phone": "+1 (885) 402-2689",
+    "current_class": "8th",
+    "address": {
+      "communication": "123 Greenwood Avenue, Iberia, California, 6218",
+      "permanent": "294 Woodruff Avenue, Edgewater, New Hampshire, 4656"
+    },
+    "marks": {
+      "english": 89,
+      "science": 53,
+      "computers": 49,
+      "hardware": 11
+    }
+  },
+  {
+    "firstname": "Trudy",
+    "lastname": "Whitley",
+    "email": "trudywhitley@nurplex.com",
+    "location": "Belleview, North Carolina, 5747",
+    "phone": "+1 (956) 455-3981",
+    "current_class": "8th",
+    "address": {
+      "communication": "768 Hill Street, Tyhee, Colorado, 7474",
+      "permanent": "552 Hunts Lane, Bridgetown, Louisiana, 954"
+    },
+    "marks": {
+      "english": 83,
+      "science": 88,
+      "computers": 42,
+      "hardware": 37
+    }
+  },
+  {
+    "firstname": "Christina",
+    "lastname": "Bowen",
+    "email": "christinabowen@nurplex.com",
+    "location": "Martinsville, District Of Columbia, 7949",
+    "phone": "+1 (936) 432-2181",
+    "current_class": "9th",
+    "address": {
+      "communication": "944 Court Street, Bladensburg, Washington, 4026",
+      "permanent": "782 Hausman Street, Imperial, Massachusetts, 1529"
+    },
+    "marks": {
+      "english": 77,
+      "science": 72,
+      "computers": 92,
+      "hardware": 76
+    }
+  },
+  {
+    "firstname": "Emilia",
+    "lastname": "Clemons",
+    "email": "emiliaclemons@nurplex.com",
+    "location": "Gerber, Ohio, 3838",
+    "phone": "+1 (838) 545-2625",
+    "current_class": "8th",
+    "address": {
+      "communication": "118 Charles Place, Murillo, Kentucky, 7450",
+      "permanent": "409 Tapscott Street, Snelling, Minnesota, 8084"
+    },
+    "marks": {
+      "english": 37,
+      "science": 18,
+      "computers": 95,
+      "hardware": 100
+    }
+  },
+  {
+    "firstname": "Moore",
+    "lastname": "Sweet",
+    "email": "mooresweet@nurplex.com",
+    "location": "Emory, Delaware, 3657",
+    "phone": "+1 (863) 529-2986",
+    "current_class": "9th",
+    "address": {
+      "communication": "583 Nichols Avenue, Bluffview, Puerto Rico, 9022",
+      "permanent": "733 Fiske Place, Succasunna, Vermont, 3813"
+    },
+    "marks": {
+      "english": 44,
+      "science": 12,
+      "computers": 29,
+      "hardware": 99
+    }
+  },
+  {
+    "firstname": "Lawson",
+    "lastname": "Hobbs",
+    "email": "lawsonhobbs@nurplex.com",
+    "location": "Gardiner, Montana, 6767",
+    "phone": "+1 (967) 528-3426",
+    "current_class": "7th",
+    "address": {
+      "communication": "536 Robert Street, Deputy, Idaho, 137",
+      "permanent": "286 Erskine Loop, Belfair, Tennessee, 8390"
+    },
+    "marks": {
+      "english": 29,
+      "science": 20,
+      "computers": 94,
+      "hardware": 11
+    }
+  },
+  {
+    "firstname": "Larsen",
+    "lastname": "Pitts",
+    "email": "larsenpitts@nurplex.com",
+    "location": "Shrewsbury, Maryland, 5603",
+    "phone": "+1 (832) 521-3306",
+    "current_class": "9th",
+    "address": {
+      "communication": "540 Bedford Place, Nipinnawasee, Illinois, 673",
+      "permanent": "237 Balfour Place, Lavalette, Mississippi, 5898"
+    },
+    "marks": {
+      "english": 57,
+      "science": 34,
+      "computers": 87,
+      "hardware": 30
+    }
+  },
+  {
+    "firstname": "Jensen",
+    "lastname": "Schultz",
+    "email": "jensenschultz@nurplex.com",
+    "location": "Dahlen, Alabama, 7966",
+    "phone": "+1 (974) 456-2024",
+    "current_class": "7th",
+    "address": {
+      "communication": "442 Lafayette Walk, Dana, Alaska, 6491",
+      "permanent": "804 Broadway , Ruckersville, Indiana, 4664"
+    },
+    "marks": {
+      "english": 48,
+      "science": 70,
+      "computers": 54,
+      "hardware": 75
+    }
+  },
+  {
+    "firstname": "Maddox",
+    "lastname": "Randall",
+    "email": "maddoxrandall@nurplex.com",
+    "location": "Gorst, New Jersey, 7961",
+    "phone": "+1 (908) 400-2191",
+    "current_class": "7th",
+    "address": {
+      "communication": "134 Cypress Avenue, Como, Kansas, 6561",
+      "permanent": "495 Bayard Street, Robinette, Wyoming, 2783"
+    },
+    "marks": {
+      "english": 80,
+      "science": 95,
+      "computers": 46,
+      "hardware": 83
+    }
+  },
+  {
+    "firstname": "Hendrix",
+    "lastname": "Alvarado",
+    "email": "hendrixalvarado@nurplex.com",
+    "location": "Delco, Hawaii, 7631",
+    "phone": "+1 (806) 578-2721",
+    "current_class": "10th",
+    "address": {
+      "communication": "458 Barwell Terrace, Why, Florida, 4873",
+      "permanent": "145 Nova Court, Southmont, Maine, 1620"
+    },
+    "marks": {
+      "english": 25,
+      "science": 68,
+      "computers": 25,
+      "hardware": 51
+    }
+  },
+  {
+    "firstname": "Snider",
+    "lastname": "George",
+    "email": "snidergeorge@nurplex.com",
+    "location": "Grayhawk, American Samoa, 2180",
+    "phone": "+1 (829) 556-3037",
+    "current_class": "8th",
+    "address": {
+      "communication": "163 Crystal Street, Trona, Pennsylvania, 6483",
+      "permanent": "182 Hamilton Walk, Centerville, Arkansas, 2561"
+    },
+    "marks": {
+      "english": 20,
+      "science": 27,
+      "computers": 69,
+      "hardware": 54
+    }
+  },
+  {
+    "firstname": "Walls",
+    "lastname": "Marquez",
+    "email": "wallsmarquez@nurplex.com",
+    "location": "Allensworth, Nebraska, 373",
+    "phone": "+1 (995) 594-2591",
+    "current_class": "9th",
+    "address": {
+      "communication": "719 Pine Street, Troy, Michigan, 9572",
+      "permanent": "553 Halsey Street, Skyland, Utah, 9795"
+    },
+    "marks": {
+      "english": 68,
+      "science": 22,
+      "computers": 40,
+      "hardware": 70
+    }
+  },
+  {
+    "firstname": "Pugh",
+    "lastname": "Frazier",
+    "email": "pughfrazier@nurplex.com",
+    "location": "Sanders, Virgin Islands, 6176",
+    "phone": "+1 (903) 536-3654",
+    "current_class": "7th",
+    "address": {
+      "communication": "196 Jefferson Avenue, Hessville, Federated States Of Micronesia, 5556",
+      "permanent": "359 Suydam Place, Ribera, Nevada, 7365"
+    },
+    "marks": {
+      "english": 22,
+      "science": 74,
+      "computers": 47,
+      "hardware": 30
+    }
+  },
+  {
+    "firstname": "Kaufman",
+    "lastname": "Abbott",
+    "email": "kaufmanabbott@nurplex.com",
+    "location": "Topanga, Texas, 3376",
+    "phone": "+1 (929) 459-3509",
+    "current_class": "7th",
+    "address": {
+      "communication": "977 Canda Avenue, Garnet, New York, 4696",
+      "permanent": "579 Kings Hwy, Belva, New Mexico, 4614"
+    },
+    "marks": {
+      "english": 34,
+      "science": 45,
+      "computers": 69,
+      "hardware": 86
+    }
+  },
+  {
+    "firstname": "Kidd",
+    "lastname": "Pollard",
+    "email": "kiddpollard@nurplex.com",
+    "location": "Dixonville, South Carolina, 206",
+    "phone": "+1 (954) 496-3638",
+    "current_class": "10th",
+    "address": {
+      "communication": "280 Lincoln Avenue, Bennett, Marshall Islands, 4005",
+      "permanent": "215 Norwood Avenue, Rivers, Oregon, 843"
+    },
+    "marks": {
+      "english": 33,
+      "science": 28,
+      "computers": 19,
+      "hardware": 42
+    }
+  },
+  {
+    "firstname": "Kimberly",
+    "lastname": "Whitehead",
+    "email": "kimberlywhitehead@nurplex.com",
+    "location": "Charco, Georgia, 7369",
+    "phone": "+1 (836) 523-2000",
+    "current_class": "7th",
+    "address": {
+      "communication": "132 Gatling Place, Biehle, Oklahoma, 2687",
+      "permanent": "939 Atlantic Avenue, Rockingham, West Virginia, 7981"
+    },
+    "marks": {
+      "english": 38,
+      "science": 33,
+      "computers": 67,
+      "hardware": 31
+    }
+  },
+  {
+    "firstname": "Morgan",
+    "lastname": "Alexander",
+    "email": "morganalexander@nurplex.com",
+    "location": "Bangor, South Dakota, 4034",
+    "phone": "+1 (843) 418-2201",
+    "current_class": "8th",
+    "address": {
+      "communication": "577 Cheever Place, Linwood, North Dakota, 4267",
+      "permanent": "861 Billings Place, Concho, Wisconsin, 8974"
+    },
+    "marks": {
+      "english": 77,
+      "science": 45,
+      "computers": 50,
+      "hardware": 59
+    }
+  },
+  {
+    "firstname": "Avila",
+    "lastname": "Kramer",
+    "email": "avilakramer@nurplex.com",
+    "location": "Garfield, Northern Mariana Islands, 5290",
+    "phone": "+1 (832) 422-3220",
+    "current_class": "10th",
+    "address": {
+      "communication": "106 Aviation Road, Whitestone, Arizona, 8645",
+      "permanent": "420 Woods Place, Sunbury, Iowa, 8725"
+    },
+    "marks": {
+      "english": 78,
+      "science": 69,
+      "computers": 35,
+      "hardware": 28
+    }
+  },
+  {
+    "firstname": "Chambers",
+    "lastname": "Valencia",
+    "email": "chambersvalencia@nurplex.com",
+    "location": "Wikieup, Rhode Island, 9283",
+    "phone": "+1 (898) 573-3809",
+    "current_class": "8th",
+    "address": {
+      "communication": "343 Pershing Loop, Sims, Connecticut, 3426",
+      "permanent": "821 Clymer Street, Waiohinu, Missouri, 8553"
+    },
+    "marks": {
+      "english": 10,
+      "science": 89,
+      "computers": 83,
+      "hardware": 100
+    }
+  },
+  {
+    "firstname": "Stokes",
+    "lastname": "Hansen",
+    "email": "stokeshansen@nurplex.com",
+    "location": "Brantleyville, Palau, 874",
+    "phone": "+1 (981) 560-3264",
+    "current_class": "10th",
+    "address": {
+      "communication": "749 Sharon Street, Caroleen, Virginia, 6226",
+      "permanent": "731 Meadow Street, Dellview, California, 5572"
+    },
+    "marks": {
+      "english": 16,
+      "science": 85,
+      "computers": 11,
+      "hardware": 77
+    }
+  },
+  {
+    "firstname": "Young",
+    "lastname": "Boyer",
+    "email": "youngboyer@nurplex.com",
+    "location": "Breinigsville, New Hampshire, 7519",
+    "phone": "+1 (969) 574-2446",
+    "current_class": "9th",
+    "address": {
+      "communication": "689 Abbey Court, Swartzville, North Carolina, 5538",
+      "permanent": "828 Etna Street, Marion, Colorado, 9802"
+    },
+    "marks": {
+      "english": 98,
+      "science": 63,
+      "computers": 29,
+      "hardware": 64
+    }
+  },
+  {
+    "firstname": "Stewart",
+    "lastname": "Spence",
+    "email": "stewartspence@nurplex.com",
+    "location": "Dexter, Louisiana, 2946",
+    "phone": "+1 (919) 449-3668",
+    "current_class": "10th",
+    "address": {
+      "communication": "600 Meserole Street, Edinburg, District Of Columbia, 6266",
+      "permanent": "585 Garden Place, Wakarusa, Washington, 9144"
+    },
+    "marks": {
+      "english": 57,
+      "science": 96,
+      "computers": 25,
+      "hardware": 33
+    }
+  }
+]
